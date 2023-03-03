@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-useeeffect-1/static/css/main.358bc6b4.css",
+    "main.js": "/React-useeeffect-1/static/js/main.c2439b1e.js",
+    "static/js/787.2c94dac7.chunk.js": "/React-useeeffect-1/static/js/787.2c94dac7.chunk.js",
+    "index.html": "/React-useeeffect-1/index.html",
+    "main.358bc6b4.css.map": "/React-useeeffect-1/static/css/main.358bc6b4.css.map",
+    "main.c2439b1e.js.map": "/React-useeeffect-1/static/js/main.c2439b1e.js.map",
+    "787.2c94dac7.chunk.js.map": "/React-useeeffect-1/static/js/787.2c94dac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358bc6b4.css",
+    "static/js/main.c2439b1e.js"
+  ]
+}
